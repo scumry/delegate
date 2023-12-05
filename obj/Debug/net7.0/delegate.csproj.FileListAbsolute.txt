@@ -1,0 +1,4 @@
+C:\Users\maldi\OneDrive\Рабочий стол\delegate\obj\Debug\net7.0\delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maldi\OneDrive\Рабочий стол\delegate\obj\Debug\net7.0\delegate.AssemblyInfoInputs.cache
+C:\Users\maldi\OneDrive\Рабочий стол\delegate\obj\Debug\net7.0\delegate.AssemblyInfo.cs
+C:\Users\maldi\OneDrive\Рабочий стол\delegate\obj\Debug\net7.0\delegate.csproj.CoreCompileInputs.cache
